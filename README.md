@@ -1,2 +1,2 @@
-# wordhex-web
-WordHex Application
+# Wordhex App
+WordHex Application (https://www.wordhex.app)
