@@ -1,0 +1,2 @@
+# wordhex-web
+WordHex Application
